@@ -2,11 +2,7 @@
 package student;
 
 import java.util.Scanner;
-/*
-hello there
-author yuvraj bhardwaj
-ths comment will be used to test roll back
-*/
+/*author yuvraj bhardwaj*/
 public class ReverseWord {
     
         public static void main(String[] args){
