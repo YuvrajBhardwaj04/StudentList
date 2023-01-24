@@ -8,6 +8,7 @@ public class Student {
     
     private String StudentID;
     private String StudentName;
+    private String address;
 
     public Student(String StudentID, String StudentName) {
         this.StudentID = StudentID;
@@ -24,6 +25,14 @@ public class Student {
 
     public String getStudentName() {
         return StudentName;
+    }
+
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
     }
 
     public void setStudentName(String StudentName) {
