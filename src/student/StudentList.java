@@ -1,4 +1,6 @@
 package student;
+/*date : 24 Jan, 2023 for PULL command
+*/
 public class StudentList {
     public static void main(String[] args){
         //Student s1 = new Student("s1","Yuvraj");
